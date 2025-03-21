@@ -49,9 +49,9 @@ const CONFIG = {
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: <a href="https://qm.qq.com/q/你的QQ号" target="_blank">
+  HEO_INFO_CARD_URL1: '<a href="https://qm.qq.com/q/你的QQ号" target="_blank">
     <button>点击添加我的QQ</button>
-</a>,
+</a>',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
